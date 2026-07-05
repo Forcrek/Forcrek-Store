@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tank Assault",
+    "version": "0.78.0",
+    "size_mb": 230,
+    "parts": [
+      "https://github.com/USER/Forcrek-Store/releases/download/v1.0/TankAssault.zip.001",
+      "https://github.com/USER/Forcrek-Store/releases/download/v1.0/TankAssault.zip.002",
+      "https://github.com/USER/Forcrek-Store/releases/download/v1.0/TankAssault.zip.003",
+      "https://github.com/USER/Forcrek-Store/releases/download/v1.0/TankAssault.zip.004"
+    ]
+  }
+]
